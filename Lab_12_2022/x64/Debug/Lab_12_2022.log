@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\alexa\Desktop\Lab_12_2022\Agenda.h(20): warning C4715: 'Agenda::Cauta': not all control paths return a value
+  Lab_12_2022.vcxproj -> C:\Users\alexa\Desktop\Lab_12_2022\x64\Debug\Lab_12_2022.exe
